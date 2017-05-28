@@ -12,7 +12,7 @@
 #define NO_OF_CHARS 256
 
 
-@implementation MOFinateAutomatica
+@implementation MOFinateAutomatica 
 
 
 /* This function builds the TF table which represents Finite Automata for a
